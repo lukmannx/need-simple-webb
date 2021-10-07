@@ -1,0 +1,22 @@
+<html>
+<head>
+
+</head>
+<body>
+<h1>Lab Nuklir</h1>
+<p>Nuklir adalah suatu zat yang dapat membuat ledakan</p>
+<p id="demokrat">bismillah bisa garinnnnnnnn</p>
+<script>
+function myFunction2() {
+  document.getElementsByid("demokrat").style.fontSize = "25px";
+  document.getElementsByid("demokrat").style.color = "red";
+  document.getElementsByid("demokrat").style.bacgroundColor = "yellow";
+}
+</script>
+
+<button type="button" onclick="myFunction2()">Katakan Jeki!</button>
+
+
+
+</body>
+</html>
