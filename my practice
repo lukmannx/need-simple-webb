@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head> <title>cebong hijrah</title>
+<style type="text/css">
+	body {background-color: darkkhaki;}
+	p {font-family: ;}
+</style>
+</head>
+<body>
+<center>
+<h1>My Article</h1>
+</center>
+<h2>My First JS</h2>
+
+<p id="demokrat">bismillah bisa garinnnnnnnn</p>
+
+<script>
+function myFunction() {
+	document.getElementsByid("demokrat").style.fontSize = "25px";
+	document.getElementsByid("demokrat").style.color = "red";
+	document.getElementsByid("demokrat").style.backgroundColor = "yellow";
+}
+</script>
+
+<button type="button" onclick="myFunction()">Katakan Jeki!</button>
+
+<h1>Nuklir</h1>
+	<p>Nuklir adalah suatu zat yang dapat membuat ledakan.<br>
+	Kim Jong Un telah memiliki nuklir untuk negaranya dengan membeli di tokped seharga 2 ribu saja</p>
+	<p><del>dimas</del> palanya penyok dan <strong>lukman</strong> ganteng</p>
+	<p>apaajalah <em>asal gak</em> pusing guaa</p>
+	<p style="color:red;">tulisan merrah PDIP </p>
+	<p style="font-size:60px;">weddan</p>
+<a href="https://www.instagram.com/lukmannxnn/">profil ig ceo instagram</a>
+<p></p>
+<a href="https://www.youtube.com">yutup</a>
+<br>
+<br>
+<header><img src="foto/law.jpeg" alt="logo bajaklaut hati" width="700" height="300"></header>
+
+<p id="depot">JavaScript can change the style of an HTML element.</p>
+
+<script>
+function myFunction1() {
+  document.getElementById("depot").style.fontSize = "25px"; 
+  document.getElementById("depot").style.color = "red";
+  document.getElementById("depot").style.backgroundColor = "yellow";        
+}
+</script>
+
+<button type="button" onclick="myFunction1()">Click Me!</button>
+
+</body>
+</html>
